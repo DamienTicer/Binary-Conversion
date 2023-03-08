@@ -1,4 +1,7 @@
 # Binary-Conversion
+This code has a menu system that can be used to convert integers to binary and binary to integers.
+
+## Instructions
 Enter the following into the console:
 ```
 gcc -c bin2dec.c -o bin2dec.o
